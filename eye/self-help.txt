@@ -1,0 +1,20 @@
+This is the help version for the programmers editiing my code. If you need to know where some of the modules are or any external help on the back end it will all be here; Note* If what you're looking for isn't on the help section for the programmer it means you have downloaded an old version of the eye program and need to do a 'sudo apt upgrade' or 'sudo apt update' possibly both.
+When you enter the back end code a tkinter terminal will pop up. Everything will be there.
+
+
+Virus implementation for purple python: Line = 2132
+DMESG = 809
+Jump = 626
+Tri = 111
+HY = 594
+cm tic = 2664
+tic = 2800
+Pass = 1822
+mine = 1284
+test = 842
+cm mine = 904
+N = 582
+click = 448
+snake = 170
+st = 155
+user help = 786

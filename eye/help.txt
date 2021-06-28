@@ -1,0 +1,21 @@
+1 Welcome to the help screen! 
+2 Legend:
+3 How do I use the eye program? {Line: ?}
+What do all of the different commands do? {Line: ?}
+
+How do I use the Eye Program?
+You will see user prompt that looks something like this:
+
+##########################################################################
+# If you want to play xdroid type: 'droid'                               #         ##############################
+# If you want to play tic tac in the terminal type: 'cm tic'.            #         #                            #
+# If you want to play enter the Wine Sever type: 'pass'                  #         #    If you need help, type: # 
+# if you want to Tkinter tic tac, type: 'tic'                            #         #             'help'         #
+# if you want to play Tkinter Mineaweeper, type: 'mine'                  #         ##############################
+# if you want to play terminal minesweeper, type: 'cm mine'              #         
+# if you want to enter the tkinter testing page, type: 'test'            #         
+# if none of these option are up to your liking, type: 'N'               #         
+##########################################################################
+
+>>>
+

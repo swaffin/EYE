@@ -1,0 +1,17 @@
+INSTRUCTIONS
+============
+>>> The goal of MineSweeper is to determine the locations of 10 bombs and work around the mines to win the game. 
+
+>>> Every time you enter the game, you'll type in the coordinates of each box, example:
+ A7.
+
+>>> If there is a mine in that box, you have lost the game. If there isn't a mine on the number of bombs directly surrounding that square, including diagonally, will appear in that square.
+
+>>> If that number is a 0, the squares around it will be 'opened' automatically, as there cannot be any bombs there, to save you time.
+
+>>> If you think you know the position of a bomb, type 'M' followed by the coordinates of that box, example: 
+ MB4.
+
+>>> You win by 'opening' all of the box's except those with bombs in.
+
+Good luck!
