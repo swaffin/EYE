@@ -1947,6 +1947,7 @@ def cm():
           OK4 = "Tor Port [9056]-Success!"
           return OK
           #Making a copy for realution (program auto re for the APK)
+          #This is just the concept for the tor ports, I still need to further implement them.
         attempts = 0
         N = '\n'
         Tor = '   Tor Port...'
@@ -2063,7 +2064,8 @@ def cm():
           print(C)
           time.sleep(3)
         def reset(): 
-          #this is when the user guesses the right username and password 
+          #this is when the user guesses the right username and password
+          #This is also a semi test of what it'll look like, I still need to make a hash breaker and add a rainbow table.
           for i in range(1):
             print("If you need to go to the main menu, type: 'reset', for the username and password.")
             username = input("\033[97mplease enter your \033[32musername\033[97m:")
@@ -2218,7 +2220,7 @@ def cm():
         #This is just the "test case" don't worry you won't be using this "print(guessing_username(''))" as a official function.
         #We need to imput a rainbow table here at some point, sonething like hashcat; use Java if you need to, but make sure you add the depeniences for python. (if you knwo Jython use that instead, but I udnerstand if you don't)
         #add timer for the amount of time it takes for the script to pull the passwords plan text (not hashed)
-        print(guessing_username('and123'))
+        print(guessing_username('Test'))
         if guessing_username == 'an':
           print("Awesome job! We've succefully cracked that password, I hope you have a wonderful time on this new account ^~^")
           app()
